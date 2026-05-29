@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSLT.Exercise_9.bai10</StartupObject>
+    <StartupObject>CSLT.Exercise_10.bai13</StartupObject>
   </PropertyGroup>
 
 </Project>
